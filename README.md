@@ -4,7 +4,7 @@
 [![npm version](https://badge.fury.io/js/primeng.svg)](https://badge.fury.io/js/primeng)
 [![Build Status](https://travis-ci.org/primefaces/primeng.svg?branch=master)](https://travis-ci.org/primefaces/primeng)
 
-# PrimeNG
+# PrimeNG from Eric
 
 UI Components for Angular
 
